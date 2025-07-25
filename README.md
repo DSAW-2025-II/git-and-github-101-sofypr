@@ -9,5 +9,5 @@
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
 - **Nombre completo:** sofy alejandra prada murillo
-- **ID de la Universidad:** 00000336152
+- **ID de la Universidad:** 0000336152
 - **Usuario de Github:** sofypr
